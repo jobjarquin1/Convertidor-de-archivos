@@ -6,7 +6,7 @@ Herramienta **interactiva con interfaz gráfica** en Python para convertir entre
 - Interfaz gráfica simple y clara (Tkinter)
 - Conversión entre formatos comunes: DOCX, PDF, TXT, MD
 - Fallback inteligente si no hay Pandoc
-- Ideal para uso personal y compartir con la comunidad
+- Ideal para uso personal 
 
 ## ⚙️ Requisitos
 ```bash
